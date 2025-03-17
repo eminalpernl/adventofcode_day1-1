@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventofcode_day1-1", "adventofcode_day1-1\adventofcode_day1-1.csproj", "{5F961CCC-F3F2-46D5-81B5-E145F0C9EE6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day1-2", "day1-2\day1-2.csproj", "{BE096293-3DA7-4CC1-B3B0-D18CC6A6F195}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5F961CCC-F3F2-46D5-81B5-E145F0C9EE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F961CCC-F3F2-46D5-81B5-E145F0C9EE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F961CCC-F3F2-46D5-81B5-E145F0C9EE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE096293-3DA7-4CC1-B3B0-D18CC6A6F195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE096293-3DA7-4CC1-B3B0-D18CC6A6F195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE096293-3DA7-4CC1-B3B0-D18CC6A6F195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE096293-3DA7-4CC1-B3B0-D18CC6A6F195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
